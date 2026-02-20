@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm a Frontend developer who enjoys building clean, responsive web experiences.
+I'm a Frontend/Web developer who enjoys building clean, responsive web experiences.
 
 I have experience building modern, responsive web applications through personal projects and contract work. I’m frontend-focused with a strong interest in UI/UX, and I enjoy turning ideas into clean, user-friendly digital experiences while continuing to grow my fullstack skills.
 
