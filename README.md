@@ -6,7 +6,7 @@ I have experience building modern, responsive web applications through contract 
 
 🚀 [Check out my Portfolio!](https://portfolio-6nnsm44i2-brandons-projects-5c01eb8f.vercel.app)
 
-## 🎯 Fun Fact: 
+## 🎯 Fun Facts: 
 I love building custom mechanical keyboards 🎹, staying fit with bodybuilding 💪, and experimenting with interior design 🛋.  
 These hobbies reflect my passion for creativity, precision, and design in everything I do.
 
