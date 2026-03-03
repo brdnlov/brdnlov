@@ -4,7 +4,7 @@ I'm a Frontend/Web developer who enjoys building clean, responsive web experienc
 
 I have experience building modern, responsive web applications through contract work with startups and scaleups. I have strong interest in UI/UX, and I enjoy turning ideas into clean, user-friendly digital experiences while continuing to grow my fullstack skills. Currently I'm diving deeper into web development by mastering Next.js and Typescript.
 
-🚀 [Check out my Portfolio!](portfolio-two-lyart-35.vercel.app)
+🚀 [Check out my Portfolio!](https://portfolio-two-lyart-35.vercel.app?_vercel_share=A0nHJN4B7gOCqKax8XoBHVEAi8ywhGwe)
 
 ## 🎯 Fun Facts: 
 I love building custom mechanical keyboards 🎹, staying fit with bodybuilding 💪, and experimenting with interior design 🛋.  
